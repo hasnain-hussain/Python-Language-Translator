@@ -6,7 +6,7 @@ The Language Translator project is a versatile tool designed to empower seamless
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/ashin-coder/language-translator.git
+1. Clone the repository: git clone https://github.com/hasnain-hussain/Python-Language-Translator
 2. Install Python (version 3.10 or Other Versions may work depending on compatibility) from the official website: Python
 3. Install a Python IDE preferably PyCharm to prevent any kind of incompatibilities since this project was developed in PyCharm
 4. Install the required dependencies using pip: pip install "dependency name" ( check the imports in the code)
